@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Atlas Danych" version="0.2.15">
-    <description>Wczytywanie zdefiniowanych kategorii warstw oraz pełnego projektu Atlas Danych.</description>
-    <about>Autorska wtyczka QGIS do wczytywania lokalnych definicji warstw QLR i projektu QGZ.</about>
-    <version>0.2.15</version>
+  <pyqgis_plugin name="Atlas Danych" version="0.2.16">
+    <description>Wczytywanie zdefiniowanych warstw zgrupowanych w kategorie.</description>
+    <about>Autorska wtyczka QGIS do wczytywania danych przestrznych.</about>
+    <version>0.2.16</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://github.com/TomBir92/gis-tools-tb</homepage>
