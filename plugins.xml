@@ -8,7 +8,7 @@
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://github.com/TomBir92/gis-tools-tb</homepage>
     <file_name>atlas_danych_0.2.13_bez_hasel.zip</file_name>
-    <download_url>https://raw.githubusercontent.com/TomBir92/gis-tools-tb/main/atlas_danych_0.2.13_bez_hasel.zip</download_url>
+    <download_url>https://raw.githubusercontent.com/TomBir92/gis-tools-tb/main/atlas_danych_0.2.13.zip</download_url>
     <author_name>TomBir92</author_name>
     <experimental>False</experimental>
     <deprecated>False</deprecated>
