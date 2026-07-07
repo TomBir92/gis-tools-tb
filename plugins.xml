@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugins>
-  <pyqgis_plugin name="Atlas Danych" version="0.2.13">
-    <description>Wczytywanie zdefiniowanych kategorii warstw oraz pełnego projektu Atlas Danych.</description>
-    <about>Autorska wtyczka QGIS do wczytywania lokalnych definicji warstw QLR i projektu QGZ.</about>
-    <version>0.2.13</version>
-    <qgis_minimum_version>3.16</qgis_minimum_version>
-    <qgis_maximum_version>3.99</qgis_maximum_version>
-    <homepage>https://github.com/TomBir92/gis-tools-tb</homepage>
-    <file_name>atlas_danych_0.2.13.zip</file_name>
-    <download_url>https://raw.githubusercontent.com/TomBir92/gis-tools-tb/main/atlas_danych_0.2.13.zip</download_url>
-    <author_name>TomBir92</author_name>
-    <experimental>False</experimental>
-    <deprecated>False</deprecated>
-    <repository>https://github.com/TomBir92/gis-tools-tb</repository>
-    <tracker>https://github.com/TomBir92/gis-tools-tb/issues</tracker>
-    <tags>qgis,gis,atlas,warstwy,postgis</tags>
-  </pyqgis_plugin>
+plugins>
+<pyqgis_plugin name="Atlas Danych" version="0.2.13">
+<description>Wczytywanie zdefiniowanych kategorii warstw oraz pełnego projektu Atlas Danych.</description>
+<about>Autorska wtyczka QGIS do wczytywania lokalnych definicji warstw QLR i projektu QGZ.</about>
+<version>0.2.13</version>
+<qgis_minimum_version>3.16</qgis_minimum_version>
+<qgis_maximum_version>3.99</qgis_maximum_version>
+<homepage>https://github.com/TomBir92/gis-tools-tb</homepage>
+<file_name>atlas_danych_0.2.13_bez_hasel.zip</file_name>
+<download_url>https://raw.githubusercontent.com/TomBir92/gis-tools-tb/main/atlas_danych_0.2.13_bez_hasel.zip</download_url>
+<author_name>TomBir92</author_name>
+<experimental>False</experimental>
+<deprecated>False</deprecated>
+<repository>https://github.com/TomBir92/gis-tools-tb</repository>
+<tracker>https://github.com/TomBir92/gis-tools-tb/issues</tracker>
+<tags>qgis,gis,atlas,warstwy,postgis</tags>
+</pyqgis_plugin>
 </plugins>
