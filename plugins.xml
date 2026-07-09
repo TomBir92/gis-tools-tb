@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Atlas Danych GIS" version="0.2.19">
+  <pyqgis_plugin name="Atlas Danych GIS" version="0.2.20">
     <description>Wczytywanie zdefiniowanych warstw zgrupowanych w kategorie.</description>
     <about>Autorska wtyczka QGIS do wczytywania danych przestrzennych.</about>
-    <version>0.2.19</version>
+    <version>0.2.20</version>
     <qgis_minimum_version>3.16</qgis_minimum_version>
     <qgis_maximum_version>3.99</qgis_maximum_version>
     <homepage>https://github.com/TomBir92/gis-tools-tb</homepage>
@@ -14,6 +14,6 @@
     <deprecated>False</deprecated>
     <repository>https://github.com/TomBir92/gis-tools-tb</repository>
     <tracker>https://github.com/TomBir92/gis-tools-tb/issues</tracker>
-    <tags>qgis,gis,atlas,warstwy,postgis</tags>
+    <tags>qgis,gis,atlas,warstwy,postgis,nietoperz</tags>
   </pyqgis_plugin>
 </plugins>
